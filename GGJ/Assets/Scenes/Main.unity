@@ -123,7 +123,7 @@ GameObject:
   - component: {fileID: 15163900}
   - component: {fileID: 15163901}
   m_Layer: 0
-  m_Name: 2
+  m_Name: Casilla1_2
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -387,7 +387,7 @@ GameObject:
   - component: {fileID: 35668853}
   - component: {fileID: 35668854}
   m_Layer: 0
-  m_Name: 8
+  m_Name: Casilla4_8
   m_TagString: Untagged
   m_Icon: {fileID: 419385456094870383, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -469,7 +469,7 @@ GameObject:
   - component: {fileID: 80241610}
   - component: {fileID: 80241611}
   m_Layer: 0
-  m_Name: 4
+  m_Name: Casilla6_4
   m_TagString: Untagged
   m_Icon: {fileID: 419385456094870383, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -672,7 +672,7 @@ GameObject:
   - component: {fileID: 146217424}
   - component: {fileID: 146217425}
   m_Layer: 0
-  m_Name: 2
+  m_Name: Casilla7_2
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -1140,7 +1140,7 @@ GameObject:
   - component: {fileID: 240162779}
   - component: {fileID: 240162780}
   m_Layer: 0
-  m_Name: 3
+  m_Name: Casilla3_3
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -1645,7 +1645,7 @@ GameObject:
   - component: {fileID: 311469717}
   - component: {fileID: 311469718}
   m_Layer: 0
-  m_Name: 7
+  m_Name: Casilla4_7
   m_TagString: Untagged
   m_Icon: {fileID: 419385456094870383, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -2027,7 +2027,7 @@ GameObject:
   - component: {fileID: 416575055}
   - component: {fileID: 416575056}
   m_Layer: 0
-  m_Name: 3
+  m_Name: Casilla5_3
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -2456,7 +2456,7 @@ GameObject:
   - component: {fileID: 466823399}
   - component: {fileID: 466823400}
   m_Layer: 0
-  m_Name: 3
+  m_Name: Casilla6_3
   m_TagString: Untagged
   m_Icon: {fileID: 419385456094870383, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -2538,7 +2538,7 @@ GameObject:
   - component: {fileID: 470665985}
   - component: {fileID: 470665986}
   m_Layer: 0
-  m_Name: 5
+  m_Name: Casilla3_5
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -3059,7 +3059,7 @@ GameObject:
   - component: {fileID: 577777821}
   - component: {fileID: 577777822}
   m_Layer: 0
-  m_Name: 1
+  m_Name: Casilla6_1
   m_TagString: Untagged
   m_Icon: {fileID: 419385456094870383, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -3266,7 +3266,7 @@ GameObject:
   - component: {fileID: 617568372}
   - component: {fileID: 617568373}
   m_Layer: 0
-  m_Name: 6
+  m_Name: Casilla7_6
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -3348,7 +3348,7 @@ GameObject:
   - component: {fileID: 637158867}
   - component: {fileID: 637158868}
   m_Layer: 0
-  m_Name: 6
+  m_Name: Casilla1_6
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -3430,7 +3430,7 @@ GameObject:
   - component: {fileID: 644790512}
   - component: {fileID: 644790513}
   m_Layer: 0
-  m_Name: 4
+  m_Name: Casilla7_4
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -3585,7 +3585,7 @@ GameObject:
   - component: {fileID: 655093503}
   - component: {fileID: 655093504}
   m_Layer: 0
-  m_Name: 1
+  m_Name: Casilla1_1
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -3897,7 +3897,7 @@ GameObject:
   - component: {fileID: 708532253}
   - component: {fileID: 708532254}
   m_Layer: 0
-  m_Name: 7
+  m_Name: Casilla7_7
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -4015,7 +4015,7 @@ GameObject:
   - component: {fileID: 744873998}
   - component: {fileID: 744873999}
   m_Layer: 0
-  m_Name: 5
+  m_Name: Casilla5_5
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -4159,7 +4159,7 @@ GameObject:
   - component: {fileID: 796220115}
   - component: {fileID: 796220116}
   m_Layer: 0
-  m_Name: 1
+  m_Name: Casilla3_1
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -4412,7 +4412,7 @@ GameObject:
   - component: {fileID: 909418994}
   - component: {fileID: 909418995}
   m_Layer: 0
-  m_Name: 6
+  m_Name: Casilla4_6
   m_TagString: Untagged
   m_Icon: {fileID: 419385456094870383, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -4640,7 +4640,7 @@ GameObject:
   - component: {fileID: 952788155}
   - component: {fileID: 952788156}
   m_Layer: 0
-  m_Name: 4
+  m_Name: Casilla1_4
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -4858,7 +4858,7 @@ GameObject:
   - component: {fileID: 1016380246}
   - component: {fileID: 1016380247}
   m_Layer: 0
-  m_Name: 8
+  m_Name: Casilla7_8
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -4940,7 +4940,7 @@ GameObject:
   - component: {fileID: 1060764232}
   - component: {fileID: 1060764233}
   m_Layer: 0
-  m_Name: 5
+  m_Name: Casilla7_5
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -5024,7 +5024,7 @@ GameObject:
   - component: {fileID: 1106353614}
   - component: {fileID: 1106353618}
   m_Layer: 0
-  m_Name: "Se\xF1al"
+  m_Name: Senial
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5090,7 +5090,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1106353613}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.016575163, z: 0}
+  m_LocalPosition: {x: 0, y: 0.0224, z: 0}
   m_LocalScale: {x: 0.030885398, y: 0.030885398, z: 0.030885398}
   m_Children: []
   m_Father: {fileID: 1297949627}
@@ -5107,6 +5107,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b646cdbdff2f71438a210ff4707af40, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  statusCasillas: {fileID: 1447393461}
 --- !u!1 &1110958902
 GameObject:
   m_ObjectHideFlags: 0
@@ -5264,7 +5265,7 @@ GameObject:
   - component: {fileID: 1119744904}
   - component: {fileID: 1119744905}
   m_Layer: 0
-  m_Name: 8
+  m_Name: Casilla2_8
   m_TagString: Untagged
   m_Icon: {fileID: 419385456094870383, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -5573,7 +5574,7 @@ GameObject:
   - component: {fileID: 1206301185}
   - component: {fileID: 1206301186}
   m_Layer: 0
-  m_Name: 6
+  m_Name: Casilla5_6
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -5655,7 +5656,7 @@ GameObject:
   - component: {fileID: 1207175165}
   - component: {fileID: 1207175166}
   m_Layer: 0
-  m_Name: 4
+  m_Name: Casilla3_4
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -6069,7 +6070,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1281472092}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.0134, z: 0}
+  m_LocalPosition: {x: 0, y: 0.025, z: 0}
   m_LocalScale: {x: 0.102951325, y: 0.102951325, z: 0.102951325}
   m_Children:
   - {fileID: 1284483338}
@@ -6405,7 +6406,7 @@ GameObject:
   - component: {fileID: 1360026055}
   - component: {fileID: 1360026056}
   m_Layer: 0
-  m_Name: 6
+  m_Name: Casilla3_6
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -6706,7 +6707,7 @@ GameObject:
   - component: {fileID: 1408671156}
   - component: {fileID: 1408671157}
   m_Layer: 0
-  m_Name: 8
+  m_Name: Casilla6_9
   m_TagString: Untagged
   m_Icon: {fileID: 419385456094870383, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -6869,8 +6870,75 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d80adfa7cd989594aa7ff89bb29015fa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   players: []
   btnInicio: {fileID: 0}
+=======
+  players:
+  - {fileID: 256224514}
+  - {fileID: 61990492}
+  - {fileID: 653710528}
+  - {fileID: 293053468}
+  anillos:
+  - {fileID: 655093501}
+  - {fileID: 15163898}
+  - {fileID: 2009359902}
+  - {fileID: 952788153}
+  - {fileID: 1781120095}
+  - {fileID: 637158865}
+  - {fileID: 1600263290}
+  - {fileID: 1750555847}
+  - {fileID: 2075785073}
+  - {fileID: 1792955819}
+  - {fileID: 1698952841}
+  - {fileID: 1546708266}
+  - {fileID: 1908152664}
+  - {fileID: 1941931447}
+  - {fileID: 1981409911}
+  - {fileID: 1119744902}
+  - {fileID: 796220113}
+  - {fileID: 1574779303}
+  - {fileID: 240162777}
+  - {fileID: 1207175163}
+  - {fileID: 470665983}
+  - {fileID: 1360026053}
+  - {fileID: 1745104185}
+  - {fileID: 1980085497}
+  - {fileID: 2097710264}
+  - {fileID: 1692354568}
+  - {fileID: 2012699687}
+  - {fileID: 1623513746}
+  - {fileID: 1627334181}
+  - {fileID: 909418992}
+  - {fileID: 311469715}
+  - {fileID: 35668851}
+  - {fileID: 1764336948}
+  - {fileID: 1791970785}
+  - {fileID: 416575053}
+  - {fileID: 1904490502}
+  - {fileID: 744873996}
+  - {fileID: 1206301183}
+  - {fileID: 1689366810}
+  - {fileID: 1735870839}
+  - {fileID: 577777819}
+  - {fileID: 1649156402}
+  - {fileID: 466823397}
+  - {fileID: 80241608}
+  - {fileID: 1664383249}
+  - {fileID: 2051040449}
+  - {fileID: 1673496427}
+  - {fileID: 1408671154}
+  - {fileID: 2016160084}
+  - {fileID: 146217422}
+  - {fileID: 1449514936}
+  - {fileID: 644790510}
+  - {fileID: 1060764230}
+  - {fileID: 617568370}
+  - {fileID: 708532251}
+  - {fileID: 1016380244}
+  numAnillo: 0
+  "posicionSe\xF1al": 0
+>>>>>>> 8e312cbea3ad0c864048002571d40169ca2f1ca8
 --- !u!4 &1447393462
 Transform:
   m_ObjectHideFlags: 0
@@ -6895,7 +6963,7 @@ GameObject:
   - component: {fileID: 1449514938}
   - component: {fileID: 1449514939}
   m_Layer: 0
-  m_Name: 3
+  m_Name: Casilla7_3
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -7119,7 +7187,7 @@ GameObject:
   - component: {fileID: 1546708268}
   - component: {fileID: 1546708269}
   m_Layer: 0
-  m_Name: 4
+  m_Name: Casilla2_4
   m_TagString: Untagged
   m_Icon: {fileID: 419385456094870383, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -7201,7 +7269,7 @@ GameObject:
   - component: {fileID: 1574779305}
   - component: {fileID: 1574779306}
   m_Layer: 0
-  m_Name: 2
+  m_Name: Casilla3_2
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -7283,7 +7351,7 @@ GameObject:
   - component: {fileID: 1600263292}
   - component: {fileID: 1600263293}
   m_Layer: 0
-  m_Name: 7
+  m_Name: Casilla1_7
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -7365,7 +7433,7 @@ GameObject:
   - component: {fileID: 1623513748}
   - component: {fileID: 1623513749}
   m_Layer: 0
-  m_Name: 4
+  m_Name: Casilla4_4
   m_TagString: Untagged
   m_Icon: {fileID: 419385456094870383, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -7447,7 +7515,7 @@ GameObject:
   - component: {fileID: 1627334183}
   - component: {fileID: 1627334184}
   m_Layer: 0
-  m_Name: 5
+  m_Name: Casilla4_5
   m_TagString: Untagged
   m_Icon: {fileID: 419385456094870383, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -7610,7 +7678,7 @@ GameObject:
   - component: {fileID: 1649156404}
   - component: {fileID: 1649156405}
   m_Layer: 0
-  m_Name: 2
+  m_Name: Casilla6_2
   m_TagString: Untagged
   m_Icon: {fileID: 419385456094870383, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -7778,7 +7846,7 @@ GameObject:
   - component: {fileID: 1664383251}
   - component: {fileID: 1664383252}
   m_Layer: 0
-  m_Name: 5
+  m_Name: Casilla6_5
   m_TagString: Untagged
   m_Icon: {fileID: 419385456094870383, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -7860,7 +7928,7 @@ GameObject:
   - component: {fileID: 1673496429}
   - component: {fileID: 1673496430}
   m_Layer: 0
-  m_Name: 7
+  m_Name: Casilla6_8
   m_TagString: Untagged
   m_Icon: {fileID: 419385456094870383, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -7942,7 +8010,7 @@ GameObject:
   - component: {fileID: 1689366812}
   - component: {fileID: 1689366813}
   m_Layer: 0
-  m_Name: 7
+  m_Name: Casilla5_7
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -8024,7 +8092,7 @@ GameObject:
   - component: {fileID: 1692354570}
   - component: {fileID: 1692354571}
   m_Layer: 0
-  m_Name: 2
+  m_Name: Casilla4_2
   m_TagString: Untagged
   m_Icon: {fileID: 419385456094870383, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -8179,7 +8247,7 @@ GameObject:
   - component: {fileID: 1698952843}
   - component: {fileID: 1698952844}
   m_Layer: 0
-  m_Name: 3
+  m_Name: Casilla2_3
   m_TagString: Untagged
   m_Icon: {fileID: 419385456094870383, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -8297,7 +8365,7 @@ GameObject:
   - component: {fileID: 1735870841}
   - component: {fileID: 1735870842}
   m_Layer: 0
-  m_Name: 8
+  m_Name: Casilla5_8
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -8379,7 +8447,7 @@ GameObject:
   - component: {fileID: 1745104187}
   - component: {fileID: 1745104188}
   m_Layer: 0
-  m_Name: 7
+  m_Name: Casilla3_7
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -8461,7 +8529,7 @@ GameObject:
   - component: {fileID: 1750555849}
   - component: {fileID: 1750555850}
   m_Layer: 0
-  m_Name: 8
+  m_Name: Casilla1_8
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -8605,7 +8673,7 @@ GameObject:
   - component: {fileID: 1764336950}
   - component: {fileID: 1764336951}
   m_Layer: 0
-  m_Name: 1
+  m_Name: Casilla5_1
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -8833,7 +8901,7 @@ GameObject:
   - component: {fileID: 1781120097}
   - component: {fileID: 1781120098}
   m_Layer: 0
-  m_Name: 5
+  m_Name: Casilla1_5
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -8915,7 +8983,7 @@ GameObject:
   - component: {fileID: 1791970787}
   - component: {fileID: 1791970788}
   m_Layer: 0
-  m_Name: 2
+  m_Name: Casilla5_2
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -9078,7 +9146,7 @@ GameObject:
   - component: {fileID: 1792955821}
   - component: {fileID: 1792955822}
   m_Layer: 0
-  m_Name: 2
+  m_Name: Casilla2_2
   m_TagString: Untagged
   m_Icon: {fileID: 419385456094870383, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -9548,7 +9616,7 @@ GameObject:
   - component: {fileID: 1904490504}
   - component: {fileID: 1904490505}
   m_Layer: 0
-  m_Name: 4
+  m_Name: Casilla5_4
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -9630,7 +9698,7 @@ GameObject:
   - component: {fileID: 1908152666}
   - component: {fileID: 1908152667}
   m_Layer: 0
-  m_Name: 5
+  m_Name: Casilla2_5
   m_TagString: Untagged
   m_Icon: {fileID: 419385456094870383, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -9785,7 +9853,7 @@ GameObject:
   - component: {fileID: 1941931449}
   - component: {fileID: 1941931450}
   m_Layer: 0
-  m_Name: 6
+  m_Name: Casilla2_6
   m_TagString: Untagged
   m_Icon: {fileID: 419385456094870383, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -9940,7 +10008,7 @@ GameObject:
   - component: {fileID: 1980085499}
   - component: {fileID: 1980085500}
   m_Layer: 0
-  m_Name: 8
+  m_Name: Casilla3_9
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -10022,7 +10090,7 @@ GameObject:
   - component: {fileID: 1981409913}
   - component: {fileID: 1981409914}
   m_Layer: 0
-  m_Name: 7
+  m_Name: Casilla2_7
   m_TagString: Untagged
   m_Icon: {fileID: 419385456094870383, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -10177,7 +10245,7 @@ GameObject:
   - component: {fileID: 2009359904}
   - component: {fileID: 2009359905}
   m_Layer: 0
-  m_Name: 3
+  m_Name: Casilla1_3
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -10270,7 +10338,7 @@ GameObject:
   - component: {fileID: 2012699689}
   - component: {fileID: 2012699690}
   m_Layer: 0
-  m_Name: 3
+  m_Name: Casilla4_3
   m_TagString: Untagged
   m_Icon: {fileID: 419385456094870383, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -10352,7 +10420,7 @@ GameObject:
   - component: {fileID: 2016160086}
   - component: {fileID: 2016160087}
   m_Layer: 0
-  m_Name: 1
+  m_Name: Casilla7_1
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -10507,7 +10575,7 @@ GameObject:
   - component: {fileID: 2051040451}
   - component: {fileID: 2051040452}
   m_Layer: 0
-  m_Name: 6
+  m_Name: Casilla6_7
   m_TagString: Untagged
   m_Icon: {fileID: 419385456094870383, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -10662,7 +10730,7 @@ GameObject:
   - component: {fileID: 2075785075}
   - component: {fileID: 2075785076}
   m_Layer: 0
-  m_Name: 1
+  m_Name: Casilla2_1
   m_TagString: Untagged
   m_Icon: {fileID: 419385456094870383, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -10885,7 +10953,7 @@ GameObject:
   - component: {fileID: 2097710266}
   - component: {fileID: 2097710267}
   m_Layer: 0
-  m_Name: 1
+  m_Name: Casilla4_1
   m_TagString: Untagged
   m_Icon: {fileID: 419385456094870383, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
