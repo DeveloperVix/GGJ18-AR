@@ -14,7 +14,8 @@ public class ControlEsfera : MonoBehaviour {
 		
 	}
 
-	public void NewPosition(GameObject casilla){
+	public void NewPosition(GameObject casilla)
+    {
         Debug.Log("Posicion: " + casilla.name);
 		transform.position = new Vector3 (casilla.transform.position.x, casilla.transform.position.y, casilla.transform.position.z);
 	}
